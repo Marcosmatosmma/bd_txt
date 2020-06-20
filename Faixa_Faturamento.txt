@@ -1,0 +1,21 @@
+﻿FX_FAT DS_FAT
+------ ----------------------------------------
+1      ATE R$ 240,0 MIL
+2      DE R$ 240,01 MIL A R$ 2,4 MM
+3      DE R$ 2,4 MM A R$ 5,0 MM
+4      DE R$ 5,1 MM A R$ 10,0 MM
+5      DE R$ 10,1 MM A R$ 30,0 MM
+6      DE R$ 30,1 MM A R$ 50,0 MM
+7      DE R$ 50,1 MM A R$ 100,0 MM
+8      DE R$ 100,1 MM A R$ 200,0 MM
+9      DE R$ 200,1 MM A R$ 300,0 MM
+10     DE R$ 300,1 MM A R$ 400,0 MM
+11     DE R$ 400,1 MM A R$ 500,0 MM
+12     DE R$ 500,1 MM A R$ 600,0 MM
+13     DE R$ 600,1 MM A R$ 700,0 MM
+14     DE R$ 700,1 MM A R$ 800,0 MM
+15     DE R$ 800,1 MM A R$ 900,0 MM
+16     ACIMA DE R$ 900,0 MM
+
+(16 row(s) affected)
+
